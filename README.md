@@ -1,7 +1,7 @@
 ### Explicación de cada sección:
 
 - **Nombre de la Prueba tecnica**: DNAMusic.
-- **Clonar el Repositorio**: Instrucciones para clonar el repositorio.
+- **Clonar el Repositorio**: https://github.com/jeissonLL/dnaMusic_0.1.git
 - **Instalar Dependencias**: Debe instalar composer para correr el proyecto.
 - **Ejecutar el Proyecto**: Debe ejecutar el Servidor XAMPP y luego ingresar a la siguiente ruta
 http://localhost/dnaMusic/public/.
